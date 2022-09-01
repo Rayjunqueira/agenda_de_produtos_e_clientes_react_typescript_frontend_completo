@@ -12,6 +12,4 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ Layout Dinâmico Responsivo </p>
  ◼ Possibilidade de Editar, Excluir e Visualizar informações de Produto/Cliente </p>
  ◼ Possibilidade de Criar e excluir Categorias </p>
- ◼ Grid (Layout responsivo)</p>
- ◼ Styled-components </p>
- ◼ LocalStorage</p>
+
