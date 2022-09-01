@@ -22,6 +22,13 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ Typescript </p>
  ◼ Styled-Components </p>
  
+ # API da Aplicação
+ 
+ A aplicação Frontend deve ser utilizada consumindo uma API.
+ 
+ Link da API utilizada: 
+
+ 
 # Rodando aplicação na sua máquina
 
 1 - Clone o repositório
