@@ -22,3 +22,18 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ Typescript </p>
  ◼ Styled-Components </p>
  
+# Rodando aplicação na sua máquina
+
+1 - Clone o repositório
+
+    git clone https://github.com/Routfin/Autenticacao_completo_frontend_react_typescript.git
+
+2 - Instal os pacotes NPM
+
+    npm install 
+
+3 - Crie um arquivo .env na raiz do seu projeto com uma API real ou fícticia  
+
+4 - Rodar aplicação
+    
+    npm start
