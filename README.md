@@ -24,7 +24,7 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  
  # API da Aplicação
  
- A aplicação Frontend deve ser utilizada consumindo uma API.
+ A aplicação Frontend deve ser utilizada consumindo uma API válida.
  
  Link da API utilizada: 
 
