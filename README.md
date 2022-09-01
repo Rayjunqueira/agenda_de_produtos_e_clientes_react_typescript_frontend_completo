@@ -26,7 +26,7 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
 
 1 - Clone o repositório
 
-    git clone https://github.com/Routfin/Autenticacao_completo_frontend_react_typescript.git
+    git clone https://github.com/Routfin/agenda_de_produtos_e_clientes_react_typescript_frontend_completo.git
 
 2 - Instal os pacotes NPM
 
