@@ -10,7 +10,7 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ Filtro de Produtos por meio de categoria </p>
  ◼ Filtro de busca de Produtos e Clientes por nome</p>
  ◼ Layout Dinâmico Responsivo </p>
- ◼ Possibilidade de Editar, Excluir e Visualizar informações de Produto/Cliente </p>
+ ◼ Possibilidade de Criar, Editar, Excluir e Visualizar informações de Produto/Cliente </p>
  ◼ Possibilidade de Criar e excluir Categorias </p>
  ◼ Paginação de Produtos e Clientes </p>
 
