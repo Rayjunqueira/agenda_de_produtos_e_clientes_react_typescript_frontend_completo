@@ -14,3 +14,11 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ Possibilidade de Criar e excluir Categorias </p>
  ◼ Paginação de Produtos e Clientes </p>
 
+# Tecnologias usadas
+
+ <p>◼ React</p>
+ ◼ React Hooks</p>
+ ◼ React-Router-Dom</p>
+ ◼ Typescript </p>
+ ◼ Styled-Components </p>
+ 
