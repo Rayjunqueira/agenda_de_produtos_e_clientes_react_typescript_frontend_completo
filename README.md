@@ -21,6 +21,7 @@ Projeto simples de agenda com cadastro de produtos e clientes consumindo API. Al
  ◼ React-Router-Dom</p>
  ◼ Typescript </p>
  ◼ Styled-Components </p>
+ ◼ Bootstrap </p>
  
  # API da Aplicação
  
